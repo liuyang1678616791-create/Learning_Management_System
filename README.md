@@ -156,7 +156,7 @@ https://github.com/liuyang1678616791-create/Learning_Management_System.git
 
 ### Vercel 地址
 
-https://learning-management-system-five-bay.vercel.app/
+https://learning-management-system-web-blush.vercel.app
 
 ## 当前完成情况
 
