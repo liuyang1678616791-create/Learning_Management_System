@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+
+# build outputs
+.turbo
+.next
+dist
+coverage
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
